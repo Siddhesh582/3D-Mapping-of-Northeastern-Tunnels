@@ -6,8 +6,9 @@ This project aims to transform indoor spatial mapping by automating 3D measureme
 ## 📝 Problem Statement
 During natural or man-made disasters, accurate spatial data is crucial for efficient rescue and recovery operations. Traditional manual mapping methods are often time-consuming and prone to errors, while existing technologies may fail in complex, obstructed,  featureless, and repetitive environments. This project addresses these challenges by developing a robotic system capable of generating accurate 3D maps in real-time, aiding rescue teams in navigating damaged or unsafe structures.
 
-![Tunnel Mapping](Results/1746800873988.jpeg)
-![Tunnel Mapping1](Results/1746801110671.jpeg)
+![Image](https://github.com/user-attachments/assets/b21579e8-95c9-4556-a323-53333fe224e8)
+
+![Image](https://github.com/user-attachments/assets/90a71114-c0a2-4ae5-a713-94df24378798)
 
 ## 🔧 Hardware Configuration
 Ubuntu 20.04 on Lenovo LOQ Laptop: ROS 2 Humble with CUDA Toolkit for GPU acceleration
