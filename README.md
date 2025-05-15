@@ -8,8 +8,6 @@ During natural or man-made disasters, accurate spatial data is crucial for effic
 
 ![Image](https://github.com/user-attachments/assets/b21579e8-95c9-4556-a323-53333fe224e8)
 
-![Image](https://github.com/user-attachments/assets/90a71114-c0a2-4ae5-a713-94df24378798)
-
 ## 🔧 Hardware Configuration
 Ubuntu 20.04 on Lenovo LOQ Laptop: ROS 2 Humble with CUDA Toolkit for GPU acceleration
 
