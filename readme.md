@@ -10,8 +10,6 @@ RGB-D SLAM pipeline for dense 3D reconstruction of GPS-denied underground tunnel
   <img src="src/tunnel_map_topdown.png" height="350px" />
 </p>
 
-*Left: RGB point cloud of a corridor section. Right: Top-down view of the full mapped network across multiple sessions.*
-
 ---
 
 ## Problem
