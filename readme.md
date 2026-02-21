@@ -2,6 +2,16 @@
 
 RGB-D SLAM pipeline for dense 3D reconstruction of GPS-denied underground tunnel corridors using a ZED Mini stereo-inertial camera and RTAB-Map on ROS 2.
 
+## Results
+
+<p float="left">
+  <img src="src/rtab.png" height="350px" />  
+  <img src="src/tunnel_map_3d.png" height="350px" />
+  <img src="src/tunnel_map_topdown.png" height="350px" />
+</p>
+
+*Left: RGB point cloud of a corridor section. Right: Top-down view of the full mapped network across multiple sessions.*
+
 ---
 
 ## Problem
@@ -13,15 +23,6 @@ The Northeastern University tunnel network was used as a real-world testbed — 
 Data collection kept camera motion below 0.5 m/s to prevent stereo tracking failure. A stabilized rolling platform reduced vibration-induced drift by ~60% compared to handheld operation.
 
 ---
-
-## Results
-
-<p float="left">
-  <img src="tunnel_map_3d.png" height="350px" />
-  <img src="tunnel_map_topdown.png" height="350px" />
-</p>
-
-*Left: RGB point cloud of a corridor section. Right: Top-down view of the full mapped network across multiple sessions.*
 
 | Metric | Value |
 |---|---|
